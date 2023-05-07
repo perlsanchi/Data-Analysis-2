@@ -1,0 +1,302 @@
+,Nationality,Rank,Rank_last_year,Sport,Year,earnings,CODE
+0,USA,1.0,5.0,boxing,1990,28.6,None
+1,USA,2.0,7.0,boxing,1990,26.0,None
+2,USA,3.0,9.0,boxing,1990,13.0,None
+3,Brazil,4.0,11.0,Auto Racing,1990,10.0,BRA
+4,France,5.0,13.0,Auto Racing,1990,9.0,FRA
+5,USA,6.0,15.0,golf,1990,8.6,None
+6,Australia,7.0,17.0,golf,1990,8.5,AUS
+7,USA,8.0,19.0,basketball,1990,8.1,None
+8,USA,8.0,19.0,golf,1990,8.1,None
+9,USA,8.0,19.0,boxing,1990,8.1,None
+10,USA,1.0,8.0,boxing,1991,60.5,None
+11,USA,2.0,1.0,boxing,1991,31.5,None
+12,USA,3.0,8.0,basketball,1991,16.0,None
+13,USA,4.0,30.0,boxing,1991,14.5,None
+14,Brazil,5.0,4.0,Auto Racing,1991,13.0,BRA
+15,France,6.0,5.0,Auto Racing,1991,11.0,FRA
+16,Canada,7.0,30.0,boxing,1991,10.2,CAN
+17,USA,8.0,8.0,golf,1991,9.3,None
+18,UK,9.0,12.0,Auto Racing,1991,9.0,None
+19,USA,10.0,6.0,golf,1991,8.5,None
+20,USA,1.0,3.0,Basketball,1992,35.9,None
+21,USA,2.0,1.0,Boxing,1992,28.0,None
+22,Brazil,3.0,5.0,Auto Racing,1992,22.0,BRA
+23,UK,4.0,9.0,Auto Racing,1992,14.5,None
+24,USA,5.0,8.0,Golf,1992,11.1,None
+25,USA,6.0,17.0,Tennis,1992,11.0,None
+26,USA,7.0,13.0,NFL,1992,9.5,None
+27,USA,8.0,10.0,Golf,1992,9.2,None
+28,USA,9.0,50.0,Tennis,1992,9.0,None
+29,USA,10.0,12.0,Tennis,1992,8.5,None
+30,USA,1.0,1.0,Basketball,1993,36.0,None
+31,USA,2.0,50.0,Boxing,1993,25.0,None
+32,Brazil,3.0,3.0,Auto Racing,1993,18.5,BRA
+33,France,4.0,50.0,Auto Racing,1993,16.0,FRA
+34,USA,5.0,19.0,Boxing,1993,15.8,None
+35,USA,6.0,50.0,NBA,1993,15.2,None
+36,USA,7.0,50.0,Boxing,1993,15.0,None
+37,USA,8.0,40.0,Baseball,1993,12.7,None
+38,USA,9.0,9.0,Tennis,1993,12.6,None
+39,USA,10.0,7.0,NFL,1993,11.5,None
+40,USA,1.0,1.0,Basketball,1994,30.0,None
+41,USA,2.0,6.0,Basketball,1994,16.7,None
+42,USA,3.0,13.0,Golf,1994,14.8,None
+43,USA,4.0,11.0,Golf,1994,13.6,None
+44,Austria,5.0,30.0,Auto Racing,1994,13.5,AUT
+45,Canada,5.0,22.0,Hockey,1994,13.5,CAN
+46,USA,7.0,50.0,Boxing,1994,12.1,None
+47,USA,8.0,12.0,Boxing,1994,12.0,None
+48,USA,9.0,20.0,Tennis,1994,11.4,None
+49,UK,10.0,19.0,Auto Racing,1994,11.3,None
+50,USA,1.0,1.0,basketball,1995,43.9,None
+51,USA,2.0,0.0,boxing,1995,40.0,None
+52,USA,3.0,38.0,American Football,1995,22.5,None
+53,USA,4.0,0.0,boxing,1995,22.2,None
+54,USA,5.0,2.0,basketball,1995,21.9,None
+55,USA,6.0,15.0,boxing,1995,18.0,None
+56,USA,7.0,9.0,Tennis,1995,16.0,None
+57,USA,8.0,3.0,golf,1995,15.1,None
+58,Germany,9.0,30.0,Auto Racing,1995,15.0,DEU
+59,Canada,10.0,5.0,Hockey,1995,14.5,CAN
+60,USA,1.0,2.0,Boxing,1996,75.0,None
+61,USA,2.0,1.0,Basketball,1996,52.6,None
+62,Germany,3.0,9.0,Auto Racing,1996,33.0,DEU
+63,USA,4.0,5.0,Basketball,1996,24.4,None
+64,USA,5.0,0.0,NFL,1996,16.5,None
+65,USA,6.0,14.0,Boxing,1996,15.5,None
+66,USA,7.0,7.0,Tennis,1996,15.2,None
+67,USA,8.0,11.0,Golf,1996,15.1,None
+68,USA,9.0,0.0,Basketball,1996,12.9,None
+69,USA,9.0,19.0,Basketball,1996,12.9,None
+70,USA,1.0,2.0,Basketball,1997,78.3,None
+71,USA,2.0,6.0,Boxing,1997,54.3,None
+72,USA,3.0,17.0,Boxing,1997,38.0,None
+73,Germany,4.0,3.0,Auto Racing,1997,35.0,DEU
+74,USA,5.0,1.0,Boxing,1997,27.0,None
+75,USA,6.0,26.0,Golf,1997,26.1,None
+76,USA,7.0,4.0,Basketball,1997,25.4,None
+77,USA,8.0,20.0,NASCAR,1997,19.1,None
+78,Canada,9.0,0.0,Hockey,1997,17.9,CAN
+79,USA,10.0,18.0,Basketball,1997,17.0,None
+80,USA,1.0,5.0,Basketball,1998,69.0,None
+81,Germany,2.0,7.0,Auto Racing,1998,38.0,DEU
+82,Russia,3.0,9.0,Hockey,1998,29.8,None
+83,USA,4.0,11.0,Golf,1998,26.8,None
+84,USA,5.0,13.0,NASCAR,1998,24.1,None
+85,USA,6.0,15.0,Basketball,1998,21.6,None
+86,USA,7.0,17.0,Boxing,1998,18.5,None
+87,USA,8.0,19.0,Basketball,1998,18.3,None
+88,USA,9.0,21.0,Golf,1998,18.1,None
+89,USA,10.0,23.0,Baseball,1998,17.2,None
+90,Germany,1.0,2.0,Auto Racing,1999,49.0,DEU
+91,USA,2.0,4.0,Golf,1999,47.0,None
+92,USA,3.0,7.0,Boxing,1999,43.5,None
+93,USA,4.0,1.0,Basketball,1999,40.0,None
+94,USA,5.0,30.0,Boxing,1999,35.5,None
+95,USA,6.0,30.0,Boxing,1999,33.0,None
+96,USA,7.0,30.0,Basketball,1999,31.0,None
+97,USA,8.0,30.0,Boxing,1999,29.0,None
+98,USA,9.0,5.0,Auto Racing,1999,26.5,None
+99,USA,10.0,6.0,Basketball,1999,23.0,None
+100,Germany,1.0,1.0,Auto Racing,2000,59.0,DEU
+101,USA,2.0,2.0,Golf,2000,53.0,None
+102,USA,3.0,6.0,Boxing,2000,48.0,None
+103,USA,4.0,4.0,Basketball,2000,37.0,None
+104,USA,5.0,10.0,Basketball,2000,26.0,None
+105,USA,6.0,9.0,Auto Racing,2000,24.5,None
+106,USA,7.0,7.0,Basketball,2000,24.0,None
+107,USA,8.0,8.0,Boxing,2000,23.0,None
+108,USA,9.0,3.0,Boxing,2000,23.0,None
+109,USA,10.0,30.0,Basketball,2000,21.0,None
+110,USA,1.0,2.0,Golf,2002,69.0,None
+111,Germany,2.0,1.0,Auto Racing,2002,67.0,DEU
+112,USA,3.0,4.0,Basketball,2002,36.0,None
+113,USA,4.0,8.0,Boxing,2002,28.0,None
+114,USA,5.0,5.0,Basketball,2002,24.0,None
+115,USA,5.0,7.0,Basketball,2002,24.0,None
+116,USA,7.0,3.0,Boxing,2002,23.0,None
+117,USA,7.0,10.0,Basketball,2002,23.0,None
+118,USA,9.0,30.0,Basketball,2002,22.0,None
+119,Canada,10.0,30.0,Auto Racing,2002,20.0,CAN
+120,USA,10.0,30.0,Auto Racing,2002,20.0,None
+121,USA,1.0,1.0,Golf,2003,78.0,None
+122,Germany,2.0,2.0,Auto Racing,2003,75.0,DEU
+123,USA,3.0,3.0,Basketball,2003,35.0,None
+124,USA,4.0,5.0,Basketball,2003,30.5,None
+125,USA,5.0,30.0,Boxing,2003,30.0,None
+126,USA,6.0,7.0,Basketball,2003,28.0,None
+127,USA,7.0,30.0,Baseball,2003,26.0,None
+128,USA,8.0,5.0,Basketball,2003,25.5,None
+129,USA,9.0,30.0,Tennis,2003,24.0,None
+130,Canada,10.0,10.0,Auto Racing,2003,23.0,CAN
+131,USA,1.0,1.0,golf,2004,80.3,None
+132,Germany,2.0,2.0,Auto Racing,2004,80.0,DEU
+133,USA,3.0,30.0,American Football,2004,42.0,None
+134,USA,4.0,3.0,basketball,2004,35.0,None
+135,USA,5.0,4.0,basketball,2004,31.9,None
+136,USA,6.0,6.0,basketball,2004,29.7,None
+137,USA,7.0,9.0,Tennis,2004,28.2,None
+138,UK,8.0,30.0,Soccer,2004,28.0,None
+139,USA,9.0,7.0,baseball,2004,26.2,None
+140,USA,10.0,30.0,basketball,2004,26.1,None
+141,USA,1.0,1.0,golf,2005,87.0,None
+142,Germany,2.0,2.0,Auto Racing,2005,60.0,DEU
+143,USA,3.0,30.0,boxing,2005,38.0,None
+144,USA,4.0,30.0,American Football,2005,37.5,None
+145,USA,5.0,5.0,basketball,2005,33.4,None
+146,USA,6.0,4.0,basketball,2005,33.0,None
+147,UK,7.0,8.0,Soccer,2005,32.5,None
+148,USA,8.0,10.0,basketball,2005,28.8,None
+149,USA,9.0,30.0,cycling,2005,28.0,None
+150,Italy,9.0,30.0,Auto Racing,2005,28.0,ITA
+151,USA,1.0,1.0,golf,2006,90.0,None
+152,Germany,2.0,2.0,Auto Racing,2006,58.0,DEU
+153,USA,3.0,30.0,boxing,2006,55.0,None
+154,USA,4.0,30.0,golf,2006,47.0,None
+155,USA,5.0,6.0,basketball,2006,32.0,None
+156,USA,6.0,8.0,basketball,2006,31.0,None
+157,USA,7.0,5.0,basketball,2006,30.0,None
+158,Italy,8.0,9.0,Auto Racing,2006,30.0,ITA
+159,USA,9.0,30.0,baseball,2006,29.0,None
+160,USA,9.0,30.0,American Football,2006,29.0,None
+161,USA,1.0,1.0,golf,2007,100.0,None
+162,USA,2.0,30.0,boxing,2007,43.0,None
+163,USA,3.0,4.0,golf,2007,42.0,None
+164,Finland,4.0,30.0,Auto Racing,2007,40.0,FIN
+165,Germany,5.0,2.0,Auto Racing,2007,36.0,DEU
+166,UK,6.0,30.0,Soccer,2007,33.0,None
+167,USA,6.0,30.0,basketball,2007,33.0,None
+168,USA,8.0,7.0,basketball,2007,32.0,None
+169,Brazil,9.0,30.0,Soccer,2007,31.0,BRA
+170,USA,9.0,5.0,basketball,2007,31.0,None
+171,USA,1.0,1.0,golf,2008,115.0,None
+172,UK,2.0,6.0,Soccer,2008,50.0,None
+173,USA,3.0,9.0,basketball,2008,45.0,None
+174,USA,3.0,3.0,golf,2008,45.0,None
+175,Finland,5.0,4.0,Auto Racing,2008,44.0,FIN
+176,USA,6.0,7.0,basketball,2008,39.0,None
+177,USA,7.0,30.0,basketball,2008,38.0,None
+178,Brazil,8.0,9.0,Soccer,2008,37.0,BRA
+179,Italy,9.0,30.0,Auto Racing,2008,35.0,ITA
+180,Switzerland,9.0,30.0,Tennis,2008,35.0,CHE
+181,USA,1.0,1.0,golf,2009,110.0,None
+182,USA,2.0,6.0,basketball,2009,45.0,None
+183,USA,2.0,3.0,basketball,2009,45.0,None
+184,Finland,2.0,5.0,Auto Racing,2009,45.0,FIN
+185,UK,5.0,2.0,Soccer,2009,42.0,None
+186,USA,6.0,7.0,basketball,2009,40.0,None
+187,USA,6.0,3.0,golf,2009,40.0,None
+188,Philippines,6.0,30.0,boxing,2009,40.0,PHL
+189,Italy,9.0,9.0,Auto Racing,2009,35.0,ITA
+190,USA,10.0,30.0,NASCAR,2009,34.0,None
+191,USA,1.0,1.0,golf,2010,105.0,None
+192,USA,2.0,30.0,boxing,2010,65.0,None
+193,USA,3.0,2.0,basketball,2010,48.0,None
+194,USA,4.0,6.0,golf,2010,46.0,None
+195,UK,5.0,5.0,Soccer,2010,43.7,None
+196,Switzerland,6.0,30.0,Tennis,2010,43.0,CHE
+197,USA,7.0,6.0,basketball,2010,42.8,None
+198,Philippines,8.0,6.0,boxing,2010,42.0,PHL
+199,USA,9.0,30.0,American Football,2010,39.9,None
+200,USA,10.0,30.0,American Football,2010,38.3,None
+201,USA,1.0,1.0,golf,2011,75.0,None
+202,USA,2.0,3.0,basketball,2011,53.0,None
+203,USA,3.0,7.0,basketball,2011,48.0,None
+204,Switzerland,4.0,6.0,Tennis,2011,47.0,CHE
+205,USA,5.0,4.0,golf,2011,46.5,None
+206,UK,6.0,5.0,Soccer,2011,40.0,None
+207,Portugal,7.0,13.0,Soccer,2011,38.0,PRT
+208,Dominican,8.0,12.0,baseball,2011,35.0,None
+209,Germany,9.0,30.0,Auto Racing,2011,34.0,DEU
+210,Argentina,10.0,30.0,Soccer,2011,32.3,ARG
+211,USA,1.0,0.0,Boxing,2012,85.0,None
+212,Filipino,2.0,24.0,Boxing,2012,62.0,None
+213,USA,3.0,1.0,Golf,2012,59.4,None
+214,USA,4.0,3.0,Basketball,2012,53.0,None
+215,Switzerland,5.0,4.0,Tennis,2012,52.7,CHE
+216,USA,6.0,2.0,Basketball,2012,52.3,None
+217,USA,7.0,5.0,Golf,2012,47.8,None
+218,UK,8.0,6.0,Soccer,2012,46.0,None
+219,Portugal,9.0,21.0,Soccer,2012,42.5,PRT
+220,USA,10.0,7.0,American Football,2012,42.4,None
+221,USA,1.0,3.0,Golf,2013,78.1,None
+222,Switzerland,2.0,5.0,Tennis,2013,71.5,CHE
+223,USA,3.0,6.0,Basketball,2013,61.9,None
+224,USA,4.0,4.0,Basketball,2013,59.8,None
+225,USA,5.0,0.0,American Football,2013,51.0,None
+226,USA,6.0,0.0,American Football,2013,49.0,None
+227,USA,7.0,7.0,Golf,2013,48.7,None
+228,UK,8.0,8.0,Soccer,2013,47.2,None
+229,Portugal,9.0,9.0,Soccer,2013,44.0,PRT
+230,Argentina,10.0,11.0,Soccer,2013,41.3,ARG
+231,USA,1.0,14.0,Boxing,2014,105.0,None
+232,Portugal,2.0,9.0,Soccer,2014,80.0,PRT
+233,USA,3.0,4.0,Basketball,2014,72.3,None
+234,Argentina,4.0,10.0,Soccer,2014,64.7,ARG
+235,USA,5.0,3.0,Basketball,2014,61.5,None
+236,USA,6.0,1.0,Golf,2014,61.2,None
+237,Switzerland,7.0,2.0,Tennis,2014,56.2,CHE
+238,USA,8.0,7.0,Golf,2014,53.2,None
+239,Spain,9.0,30.0,Tennis,2014,44.5,ESP
+240,USA,10.0,100.0,American Football,2014,43.8,None
+241,USA,1.0,1.0,Boxing,2015,300.0,None
+242,Philippines,2.0,11.0,Boxing,2015,160.0,PHL
+243,Portugal,3.0,2.0,Soccer,2015,79.6,PRT
+244,Argentina,4.0,4.0,Soccer,2015,73.8,ARG
+245,Switzerland,5.0,7.0,Tennis,2015,67.0,CHE
+246,USA,6.0,3.0,Basketball,2015,64.8,None
+247,USA,7.0,20.0,Basketball,2015,54.2,None
+248,USA,8.0,8.0,Golf,2015,50.8,None
+249,USA,9.0,6.0,Golf,2015,50.6,None
+250,USA,10.0,5.0,Basketball,2015,49.5,None
+251,Portugal,1.0,3.0,Soccer,2016,88.0,PRT
+252,Argentina,2.0,4.0,Soccer,2016,81.4,ARG
+253,USA,3.0,6.0,Basketball,2016,77.2,None
+254,Switzerland,4.0,5.0,Tennis,2016,67.8,CHE
+255,USA,5.0,7.0,Basketball,2016,56.2,None
+256,Serbia,6.0,13.0,Tennis,2016,55.8,SRB
+257,USA,7.0,30.0,American Football,2016,53.1,None
+258,USA,8.0,8.0,Golf,2016,52.9,None
+259,USA,9.0,30.0,Golf,2016,52.8,None
+260,USA,10.0,10.0,Basketball,2016,50.0,None
+261,Portugal,1.0,1.0,Soccer,2017,93.0,PRT
+262,USA,2.0,3.0,Basketball,2017,86.2,None
+263,Argentina,3.0,2.0,Soccer,2017,80.0,ARG
+264,Switzerland,4.0,4.0,Tennis,2017,64.0,CHE
+265,USA,5.0,5.0,Basketball,2017,60.6,None
+266,USA,6.0,15.0,American Football,2017,50.0,None
+267,Northern Ireland,6.0,17.0,Golf,2017,50.0,None
+268,USA,8.0,19.0,Basketball,2017,47.3,None
+269,USA,9.0,21.0,Basketball,2017,46.6,None
+270,UK,10.0,23.0,Auto Racing,2017,46.0,None
+271,USA,1.0,100.0,Boxing,2018,285.0,None
+272,Argentina,2.0,3.0,Soccer,2018,111.0,ARG
+273,Portugal,3.0,1.0,Soccer,2018,108.0,PRT
+274,Ireland,4.0,24.0,MMA,2018,99.0,IRL
+275,Brazil,5.0,18.0,Soccer,2018,90.0,BRA
+276,USA,6.0,2.0,Basketball,2018,85.5,None
+277,Switzerland,7.0,4.0,Tennis,2018,77.2,CHE
+278,USA,8.0,8.0,Basketball,2018,76.9,None
+279,USA,9.0,100.0,American Football,2018,67.3,None
+280,USA,10.0,100.0,American Football,2018,59.5,None
+281,Argentina,1.0,2.0,Soccer,2019,127.0,ARG
+282,Portugal,2.0,3.0,Soccer,2019,109.0,PRT
+283,Brazil,3.0,5.0,Soccer,2019,105.0,BRA
+284,Mexico,4.0,15.0,Boxing,2019,94.0,MEX
+285,Switzerland,5.0,7.0,Tennis,2019,93.4,CHE
+286,USA,6.0,0.0,American Football,2019,89.5,None
+287,USA,7.0,0.0,American Football,2019,89.3,None
+288,USA,8.0,6.0,Basketball,2019,89.0,None
+289,USA,9.0,8.0,Basketball,2019,79.8,None
+290,USA,10.0,11.0,Basketball,2019,65.4,None
+291,Switzerland,1.0,5.0,Tennis,2020,106.3,CHE
+292,Portugal,2.0,2.0,Soccer,2020,105.0,PRT
+293,Argentina,3.0,1.0,Soccer,2020,104.0,ARG
+294,Brazil,4.0,3.0,Soccer,2020,95.5,BRA
+295,USA,5.0,8.0,Basketball,2020,88.2,None
+296,USA,6.0,9.0,Basketball,2020,74.4,None
+297,USA,7.0,10.0,Basketball,2020,63.9,None
+298,USA,8.0,11.0,Golf,2020,62.3,None
+299,USA,9.0,100.0,American Football,2020,60.5,None
+300,USA,10.0,100.0,American Football,2020,59.1,None
